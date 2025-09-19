@@ -4,7 +4,9 @@ Im udantha 👋
 Engineer. Builder. Professional tinkerer of both code and circuits.  
 
 Moving into 30's yes i know! 
-Chaos is just a puzzle I happen to be really good at solving
+
+Chaos is just a puzzle I happen to be really good at solving.
+
 some god level pattern recognition  
 
 I’m currently sharpening my teeth on C and C++, while cooking up advanced Python projects that actually do more than just sit there and look pretty.  
