@@ -1,5 +1,5 @@
-# ![waving](https://github.com/AppachchiCodes/AppachchiCodes/raw/7a8a518b1e2c4184cc096c403951330895ade8ac/Best%20Friends%20Hello%20GIF%20by%20Best%20Friends%20Animal%20Society.gif)
-
+<img src="https://github.com/AppachchiCodes/AppachchiCodes/raw/7a8a518b1e2c4184cc096c403951330895ade8ac/Best%20Friends%20Hello%20GIF%20by%20Best%20Friends%20Animal%20Society.gif" width="250"/>
+Im udantha 👋
 
 Engineer. Builder. Professional tinkerer of both code and circuits.  
 
