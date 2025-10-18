@@ -3,9 +3,6 @@ Im udantha 👋
 
 Engineer. Builder. Professional tinkerer of both code and circuits.  
 
-Moving into 30's yes i know! 
-
-Chaos is just a puzzle I happen to be really good at solving.
 
 some god level pattern recognition  
 
