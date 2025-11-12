@@ -11,7 +11,8 @@ I’m currently sharpening my teeth on C and C++, while cooking up advanced Pyth
 What I’m Building & Exploring.... 
 
 Marketplaces & fintech for Sri Lanka  — designing scalable systems with real local impact.  
-Startups & tech innovation — I don’t just study business models, I stress-test them. 
+Startups & tech innovation 
+ 
 
 
 Beyond Computer Science 
