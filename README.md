@@ -3,8 +3,7 @@ Im udantha 👋
 
 Engineer. Builder. Professional tinkerer of both code and circuits.  
 
-
-some god level pattern recognition  
+Exclusive level pattern recognition  
 
 I’m currently sharpening my teeth on C and C++, while cooking up advanced Python projects that actually do more than just sit there and look pretty.  
 
@@ -16,10 +15,9 @@ Startups & tech innovation
 
 
 Beyond Computer Science 
-Because staying in one lane is boring 😏
 Mechanical engineering — figuring out how things move, break, and can be rebuilt smarter.  
 Electrical engineering — learning circuits and control systems as a stepping stone toward robotics.  
-I’m new to these areas, but I learn fast and enjoy breaking boundaries across disciplines -- also enjoy breaking all electronics in my house :O 
+I’m new to these areas, but I learn fast and enjoy breaking boundaries across disciplines 
 
 Collaborate With Me
 📧 udantha404@gmail.com 
