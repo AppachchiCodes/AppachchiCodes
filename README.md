@@ -12,11 +12,7 @@ Startups & tech innovation - Currently a Tech Lead at an Austrlian based startup
  
 
 
-Beyond Computer Science
 
-Mechanical engineering — figuring out how things move, break, and can be rebuilt smarter.  
-Electrical engineering — learning circuits and control systems as a stepping stone toward robotics.  
-I’m new to these areas, but I learn fast and enjoy breaking boundaries across disciplines 
 
 Collaborate With Me
 📧 udantha404@gmail.com 
