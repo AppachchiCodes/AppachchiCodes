@@ -18,7 +18,7 @@ Startups & tech innovation - Currently a Tech Lead at an Austrlian based startup
 </picture>
 
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AppachchiCodes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AppachchiCodes&layout=compact&theme=tokyonight&langs_count=10)
 
 
 Collaborate With Me
